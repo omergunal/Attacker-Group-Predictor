@@ -3,7 +3,7 @@ The tool predicts attacker groups from techniques and softwares used. It searche
 
 ### How it works?
 
-* 1- Collect data from mitre.org about attacker groups
+* 1- Collect data from https://attack.mitre.org/ about attacker groups
 * 2- Get data from user about attack
 * 3- Compare data and create result
 
