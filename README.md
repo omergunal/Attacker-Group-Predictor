@@ -37,7 +37,7 @@ python3 main.py
 
 ```
 
-### ScreenShots
+### Screenhot
 
 ![example](https://github.com/omergunal/Attacker-Group-Predictor/blob/master/img/example.PNG)
 
