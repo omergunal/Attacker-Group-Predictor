@@ -21,6 +21,12 @@ python3 main.py
 Fill the inputs
 ```
 
+### Update Attacker Groups Data
+```
+cd updater
+python3 update.py
+```
+
 ### Example
 ```
 python3 main.py
