@@ -1,5 +1,6 @@
 from predictor import *
 
+
 def main():
 
 
@@ -7,8 +8,9 @@ def main():
 	softwares = input("Softwares used (ID or Name) (Seperate with comma):")
 	result = find_groups(techniques, softwares)
 	print("\n\nMost probable groups:\n")
-	for i in result:
-		print(i[0])
+	for group in result:
+		print(group[0])
 
+		
 if __name__ == "__main__":
 	main()
