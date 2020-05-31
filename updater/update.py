@@ -2,16 +2,11 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import os
-#groups = open("groups1.txt",'r').read().split('\n')
-
-
 
 
 f = open('groupNames.txt')
 contents = f.read()
 groups = contents.splitlines()
-
-
 data = {}
 
 for group in groups:
@@ -30,10 +25,6 @@ for group in groups:
 			string = str(link.string).replace(",","")
 			data[groupName]["techniques"].append(string)
 
-"""f = open("groupInfo.txt", "w")
-f.write(str(data))
-f.close()
-"""
 
 cur_path = os.path.dirname(__file__)
 
