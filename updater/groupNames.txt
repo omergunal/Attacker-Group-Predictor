@@ -1,0 +1,94 @@
+admin@338,G0018
+APT1,G0006
+APT12,G0005
+APT16,G0023
+APT17,G0025
+APT18,G0026
+APT19,G0073
+Deep Panda,G0009
+APT28,G0007
+APT29,G0016
+APT3,G0022
+APT30,G0013
+Naikon,G0019
+APT32,G0050
+APT33,G0064
+APT37,G0067
+Lazarus Group,G0032
+APT38,G0082
+APT39,G0087
+APT41,G0096
+Axiom,G0001
+Winnti Group,G0044
+BlackOasis,G0063
+NEODYMIUM,G0055
+BRONZE BUTLER,G0060
+Carbanak,G0008
+FIN7,G0046
+Charming Kitten,G0058
+Magic Hound,G0059
+Cleaver,G0003
+Cobalt Group,G0080
+CopyKittens,G0052
+Dark Caracal,G0070
+Darkhotel,G0012
+DarkHydrus,G0079
+Dragonfly,G0035
+Dragonfly 2.0,G0074
+DragonOK,G0017
+Moafee,G0002
+Dust Storm,G0031
+Elderwood,G0066
+Equation,G0020
+FIN10,G0051
+FIN4,G0085
+FIN5,G0053
+FIN6,G0037
+FIN8,G0061
+Gallmaker,G0084
+Gamaredon Group,G0047
+GCMAN,G0036
+Gorgon Group,G0078
+Group5,G0043
+Honeybee,G0072
+Ke3chang,G0004
+Kimsuky,G0094
+Leafminer,G0077
+Leviathan,G0065
+Lotus Blossom,G0030
+Machete,G0095
+menuPass,G0045
+Molerats,G0021
+MuddyWater,G0069
+PROMETHIUM,G0056
+Night Dragon,G0014
+OilRig,G0049
+Orangeworm,G0071
+Patchwork,G0040
+PittyTiger,G0011
+PLATINUM,G0068
+Poseidon Group,G0033
+Putter Panda,G0024
+Rancor,G0075
+RTM,G0048
+Sandworm Team,G0034
+Scarlet Mimic,G0029
+Silence,G0091
+SilverTerrier,G0083
+Soft Cell,G0093
+Sowbug,G0054
+Stealth Falcon,G0038
+Stolen Pencil,G0086
+Strider,G0041
+Suckfly,G0039
+TA459,G0062
+TA505,G0092
+Taidoor,G0015
+TEMP.Veles,G0088
+The White Company,G0089
+Threat Group-1314,G0028
+Threat Group-3390,G0027
+Thrip,G0076
+Tropic Trooper,G0081
+Turla,G0010
+WIRTE,G0090
