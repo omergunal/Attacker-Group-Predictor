@@ -1,0 +1,2 @@
+beautifulsoup4==4.9.1
+lxml==3.3.3
